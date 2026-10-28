@@ -1,7 +1,9 @@
 # AI Customer Sentiment & Deflection Matrix
 ### Customer Experience Intelligence | Power BI | Power Query | DAX
 
-> A customer experience analytics solution designed to examine digital friction, order completion, customer satisfaction, and support-ticket patterns through a consolidated business intelligence dashboard.
+A customer experience analytics solution designed to examine digital friction, order completion, customer satisfaction, and support-ticket patterns through a consolidated business intelligence dashboard.
+
+![AI Customer Sentiment & Deflection Matrix Dashboard](dashboard-preview.png)
 
 ## Executive Overview
 
